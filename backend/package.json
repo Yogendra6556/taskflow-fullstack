@@ -1,0 +1,6 @@
+"scripts": {
+  "seed": "node seed.js",
+  "dev": "nodemon server.js",
+  "start": "node server.js",
+  "test": "jest"
+}
